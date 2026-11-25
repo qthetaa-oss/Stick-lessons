@@ -37,3 +37,7 @@ Hinweis: Die Skripte enthalten noch absolute Pfade (`/home/claude/vid…`); vor 
 - Jedes Video bekommt Hintergrundmusik aus `engine/music.py` (selbst erzeugtes Piano, lizenzfrei).
 - Mischung (vom Inhaber freigegeben): Effekte volume 0.9, Musik volume 0.33, danach loudnorm I=-14 TP=-1.5.
 - Aktuelle Upload-Dateien mit Musik liegen in `videos/v2/`.
+
+## Stimme (ElevenLabs)
+- Stimme: „Crystal Erickson“ (voice_id 0SPbwsQMh0YMtHHFcLu7), Modell eleven_v4. Claude kann die MP3 nicht selbst laden (Proxy blockt elevenlabsusercontent.com): der Inhaber lädt die gewählte Variante herunter und schickt sie.
+- Bisher nur 08_bamboo mit Stimme (`videos/v3/08_bamboo_voice.mp4`). ElevenLabs-Konto im Free-Plan → Quellenangabe „Voice: ElevenLabs“ in der Caption; bei Monetarisierung auf Starter wechseln.
