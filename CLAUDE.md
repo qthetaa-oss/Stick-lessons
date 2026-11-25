@@ -9,7 +9,7 @@ dunkler Hintergrund, Akzentfarbe Grün (#39E58C), Rot (#EB4848) für Verlust.
 2. Claude baut die Videos und schickt sie zur Ansicht.
 3. **Erst nach ausdrücklicher Freigabe** lädt Claude sie nach `videos/` hoch (commit + push auf `main`)
    und plant sie in Buffer ein (Organisation „My organization“).
-4. Video-URL für Buffer: `https://raw.githubusercontent.com/qthetaa-oss/stick-lessons/main/videos/<datei>.mp4`
+4. Video-URL für Buffer: `https://raw.githubusercontent.com/qthetaa-oss/Stick-lessons/main/videos/<datei>.mp4`
 
 ## Buffer
 - TikTok-Kanal: `6b06cc588541f09ecb9be19b`, YouTube-Kanal: `6b06cd178541f09ecb9be6b7`
@@ -27,3 +27,8 @@ Hinweis: Die Skripte enthalten noch absolute Pfade (`/home/claude/vid…`); vor 
 
 ## Bereits veröffentlicht
 - 01_compound_interest: TikTok manuell durch den Inhaber gepostet (nicht erneut auf TikTok einplanen).
+
+## Eingeplant am 25.11.2026 (Buffer, je 18:30)
+- YouTube 01: 25.11. · 02: 27.11. · 08: 30.11. · 03: 02.12. · 09: 04.12. · 04: 07.12. · 10: 09.12. · 05: 11.12. · 06: 14.12. · 07: 16.12.
+- TikTok: dieselben Termine ab 27.11. (ohne 01)
+- Nächster freier Termin: Fr 18.12.2026
