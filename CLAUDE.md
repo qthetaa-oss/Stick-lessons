@@ -32,3 +32,8 @@ Hinweis: Die Skripte enthalten noch absolute Pfade (`/home/claude/vid…`); vor 
 - YouTube 01: 25.11. · 02: 27.11. · 08: 30.11. · 03: 02.12. · 09: 04.12. · 04: 07.12. · 10: 09.12. · 05: 11.12. · 06: 14.12. · 07: 16.12.
 - TikTok: dieselben Termine ab 27.11. (ohne 01)
 - Nächster freier Termin: Fr 18.12.2026
+
+## Ton
+- Jedes Video bekommt Hintergrundmusik aus `engine/music.py` (selbst erzeugtes Piano, lizenzfrei).
+- Mischung (vom Inhaber freigegeben): Effekte volume 0.9, Musik volume 0.33, danach loudnorm I=-14 TP=-1.5.
+- Aktuelle Upload-Dateien mit Musik liegen in `videos/v2/`.
