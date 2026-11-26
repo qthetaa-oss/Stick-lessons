@@ -41,3 +41,9 @@ Hinweis: Die Skripte enthalten noch absolute Pfade (`/home/claude/vid…`); vor 
 ## Stimme (ElevenLabs)
 - Stimme: „Crystal Erickson“ (voice_id 0SPbwsQMh0YMtHHFcLu7), Modell eleven_v4. Claude kann die MP3 nicht selbst laden (Proxy blockt elevenlabsusercontent.com): der Inhaber lädt die gewählte Variante herunter und schickt sie.
 - Bisher nur 08_bamboo mit Stimme (`videos/v3/08_bamboo_voice.mp4`). ElevenLabs-Konto im Free-Plan → Quellenangabe „Voice: ElevenLabs“ in der Caption; bei Monetarisierung auf Starter wechseln.
+
+## TikTok-Schnitte (ab 26.11.2026)
+- TikTok-Analyse: Ø Wiedergabe nur 12 s von 45 s → kürzere Schnitte (≈28 s), großer Aufhänger ab Bild 1 (kein Fade-in), größere Texte.
+- Vorlage: `engine/tiktok/tt.py` (Konfiguration `coffee_tt`), Engine-Option `fade_in=False`, Captions mit t0=0 erscheinen sofort.
+- 03_coffee: TikTok-Schnitt `videos/tiktok/03_coffee_tiktok.mp4` am 26.11. auf TikTok UND YouTube sofort gepostet (vorgezogen vom 02.12.).
+- Geplant: übrige Videos ebenso umbauen + deutscher Test – erst nach Freigabe des Inhabers.
