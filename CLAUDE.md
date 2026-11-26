@@ -29,7 +29,7 @@ Hinweis: Die Skripte enthalten noch absolute Pfade (`/home/claude/vid…`); vor 
 - 01_compound_interest: TikTok manuell durch den Inhaber gepostet (nicht erneut auf TikTok einplanen).
 
 ## Eingeplant am 25.11.2026 (Buffer, je 18:30)
-- YouTube 01: 25.11. · 02: 27.11. · 08: 30.11. · 03: 02.12. · 09: 04.12. · 04: 07.12. · 10: 09.12. · 05: 11.12. · 06: 14.12. · 07: 16.12.
+- YouTube 01: 25.11. · 02: 26.11. (vorgezogen, TikTok ebenso) · · 08: 30.11. · 03: 02.12. · 09: 04.12. · 04: 07.12. · 10: 09.12. · 05: 11.12. · 06: 14.12. · 07: 16.12.
 - TikTok: dieselben Termine ab 27.11. (ohne 01)
 - Nächster freier Termin: Fr 18.12.2026
 
