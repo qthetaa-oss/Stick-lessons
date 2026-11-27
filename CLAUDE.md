@@ -47,3 +47,9 @@ Hinweis: Die Skripte enthalten noch absolute Pfade (`/home/claude/vid…`); vor 
 - Vorlage: `engine/tiktok/tt.py` (Konfiguration `coffee_tt`), Engine-Option `fade_in=False`, Captions mit t0=0 erscheinen sofort.
 - 03_coffee: TikTok-Schnitt `videos/tiktok/03_coffee_tiktok.mp4` am 26.11. auf TikTok UND YouTube sofort gepostet (vorgezogen vom 02.12.).
 - Geplant: übrige Videos ebenso umbauen + deutscher Test – erst nach Freigabe des Inhabers.
+
+## Neu am 27.11.2026
+- YouTube ab 28.11. täglich 18:30 (Inhaber-Wunsch: fast täglich auf YouTube). Reihenfolge: 08, 09, 04, 10, 05, 06, 07 (bis 4.12.).
+- TikTok: Inhaber lädt Videos händisch hoch (Buffer-Uploads bekamen 0 Aufrufe). TikTok-Posts in Buffer nicht automatisch nutzen, ohne Rücksprache.
+- Neue Ladung (noch NICHT freigegeben): discipline_climb (`engine/climb/climb.py`) + 6 Geld-Videos im Kurzformat (`engine/tiktok/tt2.py`: eating_out, subscriptions, phone, lottery, smoking, kid).
+- Edit-Format (`engine/edits/edit.py`): Schwarz-Weiß-Geld-Edit, Schnitte auf 120 BPM, eigene Grafiken; nur TikTok, händisch vom Inhaber hochgeladen (money_edit, 27.11.).
