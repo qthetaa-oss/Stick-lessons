@@ -53,3 +53,5 @@ Hinweis: Die Skripte enthalten noch absolute Pfade (`/home/claude/vid…`); vor 
 - TikTok: Inhaber lädt Videos händisch hoch (Buffer-Uploads bekamen 0 Aufrufe). TikTok-Posts in Buffer nicht automatisch nutzen, ohne Rücksprache.
 - Neue Ladung (noch NICHT freigegeben): discipline_climb (`engine/climb/climb.py`) + 6 Geld-Videos im Kurzformat (`engine/tiktok/tt2.py`: eating_out, subscriptions, phone, lottery, smoking, kid).
 - Edit-Format (`engine/edits/edit.py`): Schwarz-Weiß-Geld-Edit, Schnitte auf 120 BPM, eigene Grafiken; nur TikTok, händisch vom Inhaber hochgeladen (money_edit, 27.11.).
+
+- Story-Format (`engine/story/story.py`): 2D-Strichmännchen in 3D-artigen Kulissen (Büro Nacht/Regen/Morgen, Dach), Texte oben, Laptop-UI; Inhaber spricht Audio selbst ein. Erstes Video: story_one_hour (27.11.), vom Inhaber gut bewertet.
