@@ -55,3 +55,6 @@ Hinweis: Die Skripte enthalten noch absolute Pfade (`/home/claude/vid…`); vor 
 - Edit-Format (`engine/edits/edit.py`): Schwarz-Weiß-Geld-Edit, Schnitte auf 120 BPM, eigene Grafiken; nur TikTok, händisch vom Inhaber hochgeladen (money_edit, 27.11.).
 
 - Story-Format (`engine/story/story.py`): 2D-Strichmännchen in 3D-artigen Kulissen (Büro Nacht/Regen/Morgen, Dach), Texte oben, Laptop-UI; Inhaber spricht Audio selbst ein. Erstes Video: story_one_hour (27.11.), vom Inhaber gut bewertet.
+
+## Bibliothek (27.11.2026)
+- Alle bisher erstellten Videos (finale Versionen) liegen nummeriert in `videos/library/` (01–23), vom Inhaber zum Herunterladen/manuellen Posten (u. a. Instagram) gewünscht.
